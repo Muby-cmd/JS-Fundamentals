@@ -1,8 +1,5 @@
-const messages = ["C is fun", "Python is cool", "JavaScript is amazing"];
-let output = "";
+const lines = ["C is fun", "Python is cool", "JavaScript is amazing"];
 
-for (let i = 0; i < messages.length; i++) {
-  output += messages[i] + "\n";
+for (let i = 0; i < lines.length; i++) {
+  console.log(lines[i]);
 }
-
-console.log(output.trim());
