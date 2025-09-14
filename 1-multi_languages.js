@@ -1,2 +1,3 @@
-let lines = ["C is fun", "Python is cool", "JavaScript is amazing"];
-console.log(lines);
+console.log("C is fun");
+console.log("Python is cool");
+console.log("JavaScrip is amazing");
